@@ -1,0 +1,15 @@
+Source: postgresql-plv8js
+Section: database
+Priority: extra
+Maintainer: Nelson Elhage <nelhage@stripe.com>
+Build-Depends: debhelper (>= 8.0.0), postgresql-server-dev-9.1, libv8-dev
+Standards-Version: 3.9.2
+Homepage: http://code.google.com/p/plv8js/
+
+Package: postgresql-plv8js-9.1
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, postgresql-9.1
+Description: PL/v8js procedural language for PostgreSQL 9.1
+ plv8js is a procedural language add-on for PostgreSQL, which means
+ you can define JavaScript functions that run inside a PostgreSQL
+ server using google V8 Engine.
