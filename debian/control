@@ -2,7 +2,7 @@ Source: postgresql-plv8js
 Section: database
 Priority: extra
 Maintainer: Nelson Elhage <nelhage@stripe.com>
-Build-Depends: debhelper (>= 8.0.0), postgresql-server-dev-9.1, libv8-dev
+Build-Depends: debhelper (>= 8.0.0), postgresql-server-dev-9.1, libv8-dev (>= 3.7)
 Standards-Version: 3.9.2
 Homepage: http://code.google.com/p/plv8js/
 

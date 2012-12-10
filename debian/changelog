@@ -1,3 +1,9 @@
+postgresql-plv8js (0~20121207.ra4cf4afc-1~lucid1~stripe1) lucid; urgency=low
+
+  * Backport to Ubuntu Lucid
+
+ -- Nelson Elhage <nelhage@nelhage.com>  Fri, 07 Dec 2012 14:37:24 -0800
+
 postgresql-plv8js (0~20121207.ra4cf4afc-1~stripe1) precise; urgency=low
 
   * Initial release
