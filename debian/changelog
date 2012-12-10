@@ -1,3 +1,9 @@
+postgresql-plv8js (0~20121207.ra4cf4afc-1~lucid1~stripe2) lucid; urgency=low
+
+  * No-change rebuild to pick up new libv8.
+
+ -- Nelson Elhage <nelhage@nelhage.com>  Sun, 09 Dec 2012 23:13:56 -0800
+
 postgresql-plv8js (0~20121207.ra4cf4afc-1~lucid1~stripe1) lucid; urgency=low
 
   * Backport to Ubuntu Lucid
